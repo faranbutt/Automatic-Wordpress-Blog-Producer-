@@ -18,7 +18,7 @@ An AI-powered automation workflow built with **n8n** that researches, writes, ge
 
 ### 1. The n8n Workflow
 This is the "brain" of the operation. It connects the AI nodes to the WordPress REST API to handle the end-to-end process.
-![Workflow Architecture](./assets/workflow.png)
+![Workflow Architecture](./assets/workflowed.png)
 
 ### 2. Topic Input & Configuration
 You simply provide a topic or keyword, and the AI handles the research and metadata generation.
